@@ -1,0 +1,6 @@
+{
+  "name": "BASSnBEATS",
+  "description": "BASSnBEATS — Your Sound. Your Vibe. Premium modern music streaming platform with rich audio player, smart playlists, timed lyrics, queue, offline mode, artist and admin suites.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

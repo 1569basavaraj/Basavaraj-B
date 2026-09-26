@@ -1,0 +1,17 @@
+{
+  "short_name": "BASSnBEATS",
+  "name": "BASSnBEATS — Your Sound. Your Vibe.",
+  "description": "Premium modern music streaming platform with rich audio player, smart playlists, timed lyrics, and offline listening.",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#090a0f",
+  "theme_color": "#0d0e15",
+  "display": "standalone",
+  "orientation": "portrait"
+}
